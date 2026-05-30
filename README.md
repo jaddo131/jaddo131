@@ -13,11 +13,38 @@ This portfolio represents my commitment to continuous learning and hands-on expe
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jaddo131&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=jaddo131&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jaddo131&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🛠️ Platforms & Technologies
+
+![Splunk](https://img.shields.io/badge/Splunk-black?style=for-the-badge)
+![Active Directory](https://img.shields.io/badge/Active_Directory-blue?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-blue?style=for-the-badge)
+![Sysmon](https://img.shields.io/badge/Sysmon-lightgrey?style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-blue?style=for-the-badge)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-blue?style=for-the-badge)
+![Windows OS](https://img.shields.io/badge/Windows_OS-blue?style=for-the-badge)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-grey?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
+
+## 🔒 Security Skills
+
+![Incident Response](https://img.shields.io/badge/Incident_Response-red?style=for-the-badge)
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-red?style=for-the-badge)
+![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-darkred?style=for-the-badge)
+![Intrusion Detection](https://img.shields.io/badge/Intrusion_Detection-orange?style=for-the-badge)
+![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Management-purple?style=for-the-badge)
+![Network Security](https://img.shields.io/badge/Network_Security-blue?style=for-the-badge)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-blue?style=for-the-badge)
+![Risk Analysis](https://img.shields.io/badge/Risk_Analysis-green?style=for-the-badge)
+![SOAR Automation](https://img.shields.io/badge/SOAR_Automation-purple?style=for-the-badge)
+
+## 📜 Certifications
+
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-red?style=for-the-badge)
+![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network%2B-red?style=for-the-badge)
+![CompTIA A+](https://img.shields.io/badge/CompTIA_A%2B-red?style=for-the-badge)
+![ITIL4 Foundation](https://img.shields.io/badge/ITIL4_Foundation-purple?style=for-the-badge)
+![Google Cybersecurity Professional](https://img.shields.io/badge/Google_Cybersecurity_Professional-blue?style=for-the-badge)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
