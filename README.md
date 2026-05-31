@@ -20,7 +20,6 @@ This portfolio represents my commitment to continuous learning and hands-on expe
 ![Active Directory](https://img.shields.io/badge/Active_Directory-blue?style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-blue?style=for-the-badge)
 ![Sysmon](https://img.shields.io/badge/Sysmon-lightgrey?style=for-the-badge)
-![PowerShell](https://img.shields.io/badge/PowerShell-blue?style=for-the-badge)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-blue?style=for-the-badge)
 ![Windows OS](https://img.shields.io/badge/Windows_OS-blue?style=for-the-badge)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-grey?style=for-the-badge)
